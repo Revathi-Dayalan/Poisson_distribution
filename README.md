@@ -1,4 +1,5 @@
-## EX NO:02                             Date:15:09:2023
+## EX NO:02                             
+## 15:09:2023
 # Fitting Poisson  distribution
 # Aim : 
 
